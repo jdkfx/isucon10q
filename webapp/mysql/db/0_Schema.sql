@@ -44,4 +44,4 @@ CREATE TABLE isuumo.chair
 );
 
 CREATE INDEX index_price
-ON isuumo.price (price);
+ON isuumo.chair (price);
